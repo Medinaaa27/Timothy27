@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hans
-- 👀 I’m interested in learning C++, and game developing
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in learning C++, Java, Python, and game developing
+- 🌱 I’m currently learning C++, Java, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
